@@ -1,8 +1,8 @@
 # OOP_Projacets
 
 # Space Invaders
-* id: 66114540784
-* name: Saharat Wiangkaew
+* ID: 66114540784
+* Name: Saharat Wiangkaew
 
 ## technology: Pygame
 
