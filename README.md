@@ -11,6 +11,6 @@
 ควบคุมยานเพื่อยิงกำจัดเอเลี่ยน
 
 ## presentation:
-https://docs.google.com/presentation/d/1q2Ay7iHOj6tQsxZbGN6lcmlXIcvYH3AHHSACPJjp3NE/edit?usp=sharing)https://docs.google.com/presentation/d/1q2Ay7iHOj6tQsxZbGN6lcmlXIcvYH3AHHSACPJjp3NE/edit?usp=sharing
+https://www.canva.com/design/DAF_W0fGnUo/bLaSCub21CWWJXcQHpIfFA/edit?utm_content=DAF_W0fGnUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## video:
 []
